@@ -1,5 +1,6 @@
 {
     "name": "shockyrow/sandbox-tailwindcss-theme",
+    "type": "library",
     "license": "MIT",
     "autoload": {
         "psr-4": {
