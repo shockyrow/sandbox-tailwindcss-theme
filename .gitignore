@@ -3,5 +3,4 @@
 /demo/
 /vendor/
 composer.phar
-composer.lock
 .php-cs-fixer.cache
